@@ -1,4 +1,4 @@
 [plugin]
-description = "dokku jenkins service plugin with R installed"
+description = "dokku jenkins service plugin with R installed, + cranatgh package"
 version = "1.0.0"
 [plugin.config]
